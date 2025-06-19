@@ -2,7 +2,7 @@
 
 A dynamic, responsive image search engine built with **React** and the **Unsplash API**. This web app allows users to search and browse high-quality images with a sleek UI and a seamless experience. Built with modern tools like Vite, functional components, and React Hooks.
 
-![App Screenshot](./public/demo.png)
+![App Screenshot](web_Screenshot.png)
 
 ---
 
